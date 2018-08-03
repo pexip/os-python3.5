@@ -1,3 +1,9 @@
+python3.5 (3.5.3-1pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Fri, 03 Aug 2018 23:15:39 +0000
+
 python3.5 (3.5.3-1) unstable; urgency=medium
 
   * Python 3.5.3 release.
