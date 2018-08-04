@@ -40,3 +40,4 @@ pydoc-use-pager.diff
 #asyncio366.diff
 pyhash.diff
 lib2to3-no-pgen-caching.diff
+native-md5.diff
