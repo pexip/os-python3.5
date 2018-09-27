@@ -40,3 +40,6 @@ pydoc-use-pager.diff
 #asyncio366.diff
 pyhash.diff
 lib2to3-no-pgen-caching.diff
+CVE-2017-1000158.diff
+CVE-2018-1060_CVE-2018-1061.diff
+CVE-2018-14647.diff
