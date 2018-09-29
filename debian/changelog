@@ -1,3 +1,15 @@
+python3.5 (3.5.3-1+deb9u1pexip1) pexip; urgency=medium
+
+  * New upstream release
+
+ -- John-Mark Bell <jmb@pexip.com>  Sat, 29 Sep 2018 11:44:03 +0100
+
+python3.5 (3.5.3-1+deb9u1) stretch-security; urgency=medium
+
+  * CVE-2017-1000158 CVE-2018-1060 CVE-2018-1061 CVE-2018-14647
+
+ -- Moritz Mühlenhoff <jmm@debian.org>  Thu, 27 Sep 2018 19:25:39 +0200
+
 python3.5 (3.5.3-1pexip1) pexip; urgency=medium
 
   * Prepare Pexip packaging
