@@ -1,3 +1,9 @@
+python3.5 (3.5.3-1+deb9u1pexip2) pexip; urgency=medium
+
+  * debian/sitecustomize.py.in: customize for Pexip
+
+ -- Mikhail Fludkov <misha@pexip.com>  Tue, 16 May 2019 17:06:00 +0000
+
 python3.5 (3.5.3-1+deb9u1pexip1) pexip; urgency=medium
 
   * New upstream release
